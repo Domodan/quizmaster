@@ -1,4 +1,4 @@
-# Files Manager
+# Quizmaster - Flask App
 
 [![Coverage Status](https://coveralls.io/repos/github/Domodan/quizmaster/badge.svg?branch=main)](https://coveralls.io/github/Domodan/quizmaster?branch=main)
 
